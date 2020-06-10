@@ -2,7 +2,7 @@
 
 Defualt langauge on website is Telugu.
 
-Depolyed using [Render.com](https://dashboard.render.com/)
+Depolyed on ![github pages](https://github.com/nidhi-wgl/nidhi-wgl.github.io/workflows/github%20pages/badge.svg)
 
 Current Theme [LoveIt](https://hugoloveit.com/)
 
