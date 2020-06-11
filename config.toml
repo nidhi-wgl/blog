@@ -79,7 +79,8 @@ enableGitInfo = true
         title = "నిధి"
         # whether to omit favicon resource links
         noFavicon = false
-        # modern SVG favicon to use in place of older style .png and .ico files svgFavicon = ""
+        # modern SVG favicon to use in place of older style .png and .ico files 
+        svgFavicon = ""
         # Android browser theme color
         themeColor = "#ffffff"
         # Safari mask icon color
@@ -184,7 +185,8 @@ enableGitInfo = true
         title = "Poetry by Nidhi"
         # whether to omit favicon resource links
         noFavicon = false
-        # modern SVG favicon to use in place of older style .png and .ico files svgFavicon = ""
+        # modern SVG favicon to use in place of older style .png and .ico files 
+        svgFavicon = ""
         # Android browser theme color
         themeColor = "#ffffff"
         # Safari mask icon color
