@@ -32,26 +32,28 @@ Always start new post with following lines then write actual content
 ```yml
 ---
 weight: 1
-title: "Poem Name కవిత పేరు" //telugu name good
-date: 2019-03-09 //replace with current date
-draft: false  // if poem is still a draft then change to true
-tags: ["test"] // include related tags
-categories: ["పాటలు"] // ఏ విభాగం కి
-author: "Nidhi" // Telugu script good
+title: "Poem Name కవిత పేరు" # telugu name good
+date: 2019-03-09 # replace with current date
+draft: false  # if poem is still a draft then change to true
+tags: ["test"] # include related tags
+categories: ["పాటలు"] # ఏ విభాగం కి
+author: "Nidhi" # Telugu script good
 authorLink: ""
-description: "Lorem Ipsum Dolor Si Amet." // post గురించి ఒక్క line లో
-timeToRead: "10" // చదవడానికి అయే time estimate
+description: "Lorem Ipsum Dolor Si Amet." # post గురించి ఒక్క line లో
+timeToRead: "10" # చదవడానికి అయే time estimate
 
 resources:
-  - name: "featured-image" // main image home పేజీ లో వస్తుంది
-    src: "hero-4.jpg" // file పేరు & ఆ folder లో నే ఉండాలి
+  - name: "featured-image" # main image home పేజీ లో వస్తుంది
+    src: "hero-4.jpg" # file పేరు & ఆ folder లో నే ఉండాలి
 
 lightgallery: true
-hiddenFromHomePage: false // books కి true -- home పేజీ లో కనపడకుండా చేస్తూంది
+hiddenFromHomePage: false # books కి true -- home పేజీ లో కనపడకుండా చేస్తూంది
 
 toc:
-  auto: false // విషయ సూచిక కొరకు
+  auto: false # విషయ సూచిక కొరకు
 ---
+
+హోం పేజీ లో టైటిల్ కింద చూపించే ఒక్క లైన్ <!--more--> 
 
 ఇక్కడ ఉంది రాయడం మొదలుపెట్టండి
 
