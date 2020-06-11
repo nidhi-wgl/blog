@@ -6,7 +6,7 @@ Depolyed on ![github pages](https://github.com/nidhi-wgl/nidhi-wgl.github.io/wor
 
 Current Theme [LoveIt](https://hugoloveit.com/)
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nidhi-wgl/poetry-collection)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nidhi-wgl/nidhi-wgl.github.io)
 
 ## Creating New Posts
 
